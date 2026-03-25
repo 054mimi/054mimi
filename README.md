@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Duncan Mimi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Database+Systems+Builder;Cybersecurity+Enthusiast;Building+Real+World+Systems&center=true&width=600&height=50&color=00FF9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Database+Systems+Builder;Cybersecurity+Enthusiast;Building+Real+World+Systems&center=true&width=600&height=50&color=00FF9F" alt="Typing SVG" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; max-width: 100%;" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=054mimi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=054mimi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 4px; max-width: 100%;" />
 </p>
 
 ---
@@ -56,36 +56,45 @@ Multiple database design and SQL-heavy systems demonstrating normalization, opti
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=054mimi&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=054mimi&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="48%" />
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=054mimi&show_icons=true&theme=tokyonight&hide_border=false&hide_title=true" alt="GitHub Stats" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; display: inline-block; max-width: 48%; margin: 4px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=054mimi&theme=tokyonight&hide_border=false" alt="Contribution Streak" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; display: inline-block; max-width: 48%; margin: 4px;" />
 </p>
 
 ### Most Used Languages
-*(Auto-updates with every commit — percentages and bars reflect actual GitHub activity)*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=054mimi&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" alt="Most Used Languages" width="70%" />
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=054mimi&layout=compact&theme=tokyonight&hide_border=false&hide_title=true" alt="Most Used Languages" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; max-width: 85%; margin: 8px auto; display: block;" />
 </p>
 
 ### Technologies I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,mysql,git,docker,vscode,linux,c&perline=8" alt="Tech Stack" />
+<p align="center" style="margin: 0; padding: 0;">
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
 </p>
 
 ### Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=054mimi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="85%" />
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=054mimi&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; max-width: 100%; margin: 8px auto; display: block;" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=054mimi&theme=tokyonight&row=1&column=6&margin-w=15" alt="GitHub Trophies" width="85%" />
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=054mimi&theme=tokyonight&row=1&column=6&margin-w=15" alt="GitHub Trophies" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; max-width: 100%; margin: 8px auto; display: block;" />
 </p>
 
 ---
@@ -121,8 +130,8 @@ Multiple database design and SQL-heavy systems demonstrating normalization, opti
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/054mimi/054mimi/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="85%" />
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://github.com/054mimi/054mimi/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; max-width: 100%; margin: 8px auto; display: block;" />
 </p>
 
 ---
