@@ -56,9 +56,9 @@ Multiple database design and SQL-heavy systems demonstrating normalization, opti
 
 ### 📊 GitHub Statistics
 
-<p align="center" style="margin: 0; padding: 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=054mimi&theme=tokyonight&hide_border=false" alt="Contribution Streak" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; display: inline-block; max-width: 45%; margin: 0.1px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=054mimi&show_icons=true&theme=tokyonight&hide_border=false&hide_title=true" alt="GitHub Stats" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; display: inline-block; max-width: 45%; margin: 0.1px;" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=054mimi&theme=tokyonight&hide_border=false" alt="Contribution Streak" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 0.1px; display: inline-block; max-width: 45%; margin: 0.1px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=054mimi&show_icons=true&theme=tokyonight&hide_border=false&hide_title=true" alt="GitHub Stats" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 0.1px; display: inline-block; max-width: 45%; margin: 0.1px;" />
 </p>
 
 ### Most Used Languages
