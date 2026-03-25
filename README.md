@@ -1,71 +1,130 @@
-## Hi there 👋
-# Hi, I'm Duncan Mimi 👋
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Duncan Mimi</h1>
 
-💻 Software Engineer  
-🎓 Computer Science Student  
-🏸 Badminton player at KYU  
-🌍 Based in Kenya
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Database+Systems+Builder;Cybersecurity+Enthusiast;Building+Real+World+Systems&center=true&width=600&height=50&color=00FF9F" alt="Typing SVG" />
+</p>
 
----
-
-## 🚀 What I'm Building
-- Full-stack eCommerce system for gas cylinder wholesale distribution
-- Web applications using HTML, CSS, JavaScript
-- Database-driven systems
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=054mimi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
-- Frontend: HTML, CSS, JavaScript
-- Backend: (add what you use e.g. Node / PHP / Python)
-- Database: MySQL
-- Tools: Git, GitHub, VS Code
+### 🚀 About Me
+
+I'm a passionate **Software Engineering** student based in **Nairobi, Kenya** 🇰🇪.  
+
+I love turning real-world problems into robust, scalable systems. Whether it's designing efficient databases, building full-stack applications, or exploring cybersecurity — I'm all in.
+
+- 🎓 Pursuing Computer Science  
+- 🏸 Competitive Badminton player (KYU)  
+- 🌍 Currently focused on **Full-Stack Development**, **Database Systems**, **System Architecture**, and **Cybersecurity**
 
 ---
 
-## 📂 Featured Projects
+### 🔥 Current Major Project
 
-### 🛒 Gas Cylinder eCommerce System
-Full-stack platform for wholesale gas distribution.
+## 🛒 Gas Cylinder Wholesale Management System
 
-Features:
-- Customer login system
-- Admin dashboard
-- MPesa payment tracking
-- Cylinder capacity → KG conversion
-- Automatic balance & arrears tracking
+A complete **full-stack eCommerce + management platform** built for gas cylinder distributors in Kenya.
 
-Repo → [link]
+**Key Features:**
+- ✅ Secure customer authentication & admin dashboard
+- ✅ Dynamic pricing (unique price per kg per customer)
+- ✅ Real-time cylinder capacity & inventory tracking
+- ✅ MPesa + Bank payment integration
+- ✅ Arrears & credit management system
+- ✅ Automatic receipt generation
 
----
-
-### 🍽 Restaurant Website
-Static responsive restaurant website built with HTML & CSS.
-
-Repo → [link]
+This project solves actual operational pain points for wholesale distributors.
 
 ---
 
-## 📊 GitHub Stats
-(You can add GitHub stats widgets)
+### 🧠 Other Notable Projects
+
+**🏦 Online Banking System**  
+A simulated banking application with user authentication, transaction processing, balance tracking, and robust database operations.
+
+**🍽 Restaurant Website**  
+Fully responsive frontend website built with modern HTML & CSS.
+
+**📊 DBMS Coursework**  
+Multiple database design and SQL-heavy systems demonstrating normalization, optimization, and complex querying.
 
 ---
 
-## 📫 Connect With Me
-LinkedIn: (add link)  
-Email: (optional)
+### 📊 GitHub Statistics
 
-<!--
-**054mimi/054mimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=054mimi&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=054mimi&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="48%" />
+</p>
 
-Here are some ideas to get you started:
+### Most Used Languages
+*(Auto-updates with every commit — percentages and bars reflect actual GitHub activity)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=054mimi&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" alt="Most Used Languages" width="70%" />
+</p>
+
+### Technologies I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,mysql,git,docker,vscode,linux,c&perline=8" alt="Tech Stack" />
+</p>
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=054mimi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="85%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=054mimi&theme=tokyonight&row=1&column=6&margin-w=15" alt="GitHub Trophies" width="85%" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+| Project                          | Description                                      | Tech Stack                  |
+|----------------------------------|--------------------------------------------------|-----------------------------|
+| Gas Cylinder Wholesale System    | Full-stack distribution & eCommerce platform     | Node.js, MySQL, MPesa       |
+| Online Banking System            | Simulated core banking application               | Python, MySQL               |
+| Restaurant Website               | Modern responsive frontend                       | HTML, CSS                   |
+| DBMS Systems                     | Advanced database design & optimization projects | SQL, MySQL                  |
+
+---
+
+### 📚 Currently Learning
+
+- Advanced Database Systems & Optimization
+- System Design & Architecture
+- Cybersecurity Fundamentals (Network Security, Ethical Hacking)
+- Full-Stack Best Practices & Cloud Deployment
+- Docker & Containerization
+
+---
+
+### 🌍 Let's Connect
+
+- **LinkedIn** → Coming soon  
+- **Email** → Available on request  
+- Open to collaborations, internships, and interesting projects in Kenya and beyond!
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/054mimi/054mimi/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="85%" />
+</p>
+
+---
+
+> **“Code that solves real problems is the only code worth writing.”**
