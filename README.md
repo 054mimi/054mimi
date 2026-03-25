@@ -56,9 +56,9 @@ Multiple database design and SQL-heavy systems demonstrating normalization, opti
 
 ### 📊 GitHub Statistics
 
-<p style="margin: 0; padding: 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=054mimi&theme=tokyonight&hide_border=false" alt="Contribution Streak" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; display: inline-block; max-width: 48.5%; margin: 0.1px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=054mimi&show_icons=true&theme=tokyonight&hide_border=false&hide_title=true" alt="GitHub Stats" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; display: inline-block; max-width: 48.5%; margin: 0.1px;" />
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=054mimi&theme=tokyonight&hide_border=false" alt="Contribution Streak" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; display: inline-block; max-width: 45%; margin: 0.1px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=054mimi&show_icons=true&theme=tokyonight&hide_border=false&hide_title=true" alt="GitHub Stats" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; display: inline-block; max-width: 45%; margin: 0.1px;" />
 </p>
 
 ### Most Used Languages
@@ -70,22 +70,22 @@ Multiple database design and SQL-heavy systems demonstrating normalization, opti
 ### Technologies I Use
 
 <p style="margin: 0; padding: 0; text-align: center;">
-  <a href="https://www.python.org/" target="blank" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
-  <a href="https://nodejs.org/" target="blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
-  <a href="https://www.mysql.com/" target="blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
-  <a href="https://git-scm.com/" target="blank" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
-  <a href="https://www.docker.com/" target="blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
-  <a href="https://code.visualstudio.com/" target="blank" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
-  <a href="https://www.linux.org/" target="blank" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank" title="C Programming Language"><img src="https://skillicons.dev/icons?i=c" alt="C" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C Programming Language"><img src="https://skillicons.dev/icons?i=c" alt="C" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
 </p>
 
 ### Contribution Graph
 
-<p style="margin: 0; padding: 0;">
+<p align="center" style="margin: 0; padding: 0;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=054mimi&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; max-width: 100%; margin: 8px auto; display: block;" />
 </p>
 
@@ -93,7 +93,7 @@ Multiple database design and SQL-heavy systems demonstrating normalization, opti
 
 ### 🏆 GitHub Trophies
 
-<p style="margin: 0; padding: 0;">
+<p align="center" style="margin: 0; padding: 0;">
   <img src="https://github-profile-trophy.vercel.app/?username=054mimi&theme=tokyonight&row=1&column=6&margin-w=15" alt="GitHub Trophies" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; max-width: 100%; margin: 8px auto; display: block;" />
 </p>
 
@@ -122,7 +122,7 @@ Multiple database design and SQL-heavy systems demonstrating normalization, opti
 
 ### 🌍 Let's Connect
 
-- **LinkedIn** → Coming soon  
+- **LinkedIn** → www.linkedin.com/in/dun-mimi-ndegwa
 - **Email** → Available on request  
 - Open to collaborations, internships, and interesting projects in Kenya and beyond!
 
