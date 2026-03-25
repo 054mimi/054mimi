@@ -57,8 +57,9 @@ Multiple database design and SQL-heavy systems demonstrating normalization, opti
 ### 📊 GitHub Statistics
 
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=054mimi&show_icons=true&theme=tokyonight&hide_border=false&hide_title=true" alt="GitHub Stats" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; display: inline-block; max-width: 48%; margin: 4px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=054mimi&theme=tokyonight&hide_border=false" alt="Contribution Streak" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; display: inline-block; max-width: 48%; margin: 4px;" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=054mimi&theme=tokyonight&hide_border=false" alt="Contribution Streak" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; display: inline-block; max-width: 45%; margin: 0.1px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=054mimi&show_icons=true&theme=tokyonight&hide_border=false&hide_title=true" alt="GitHub Stats" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; display: inline-block; max-width: 45%; margin: 0.1px;" />
+
 </p>
 
 ### Most Used Languages
@@ -69,18 +70,18 @@ Multiple database design and SQL-heavy systems demonstrating normalization, opti
 
 ### Technologies I Use
 
-<p align="center" style="margin: 0; padding: 0;">
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px;" /></a>
+<p  style="margin: 0; padding: 0;">
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; margin: 4px; height: 100px; width: 100px;" /></a>
 </p>
 
 ### Contribution Graph
