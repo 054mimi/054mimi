@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Duncan Mimi</h1>
+<h1 align="center">Hi 👋, I'm Duncan Ndegwa</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Database+Systems+Builder;Cybersecurity+Enthusiast;Building+Real+World+Systems&center=true&width=600&height=50&color=00FF9F" alt="Typing SVG" style="border: 2px solid #0e75b6; border-radius: 12px; padding: 8px; max-width: 100%;" />
