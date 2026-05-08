@@ -17,9 +17,10 @@ I'm a passionate **Software Engineering** student based in **Nairobi, Kenya** �
 
 I love turning real-world problems into robust, scalable systems. Whether it's designing efficient databases, building full-stack applications, or exploring cybersecurity — I'm all in.
 
-- 🎓 Pursuing Computer Science  
+- 🎓 Pursuing Software Engineering
+- 🤓 Taking Data Science
 - 🏸 Competitive Badminton player (KYU)  
-- 🌍 Currently focused on **Full-Stack Development**, **Database Systems**, **System Architecture**, and **Cybersecurity**
+- 🌍 Currently focused on **Full-Stack Development**, **Database Systems**, and **System Architecture**
 
 ---
 
